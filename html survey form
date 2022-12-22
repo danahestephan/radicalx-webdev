@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>inquisitive survey form</title>
+</head>
+<body>
+    <form ahref="https://www.radicalx.co">
+        <div align="center">
+            <h1>Inquitive survey form</h1>
+            <label>enter your name</label>
+            <input type="text" name="ÿour name" size="30" maxlenght="40" value="tom">
+        </div>
+        <div align="center">
+            <label>enter your profession</label>
+            <input type="text" name="your profession" lenght="30">
+        </div>
+        <div align="center">
+            <label align="center">tell us about yourself:</label>
+            <textarea colomns="1" rows="5" name="about yourself"></textarea>
+        </div>
+        <div align="center">
+            <label>do you exercice at home?</label>
+            <label>yes</label>
+            <select type="radio button" name="exercise" value="ÿes"></select>
+            <label>no</label>
+            <select type="radio button" name="no exercice" value="no"></select>
+        </div>
+        <div align="center">
+            <label>television</label>
+            <input type="checkbox" name="television">
+            <label>magazines</label>
+            <input type="checkbox" name="magazines">
+            <label>books</label>
+            <input type="checkbox" name="books">
+            <label>online recources</label>
+            <input type="checkbox" name="online resources">
+            <label>phone apps</label>
+            <input type="checkbox" name="phone apps">
+        </div>
+        <div align="center">
+        <label>what genre of movies do you like?</label>
+        <select name="genre">
+            <option>sci-fi</option>
+            <option>romance</option>
+            <option>thriller</option>
+            <option>horror</option>
+            <option>comedy</option>
+            <option>action</option>
+        </select>
+        </div>
+        <div align="center">
+            <input type="submit" value="submit form">
+        </div>
+    </form>
+</body>
+</html>
