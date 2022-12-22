@@ -7,7 +7,7 @@
     <title>inquisitive survey form</title>
 </head>
 <body>
-    <form ahref="https://www.radicalx.co">
+    <form action="https://www.radicalx.co">
         <div align="center">
             <h1>Inquitive survey form</h1>
             <label>enter your name</label>
