@@ -23,10 +23,8 @@
         </div>
         <div align="center">
             <label>do you exercice at home?</label>
-            <label>yes</label>
-            <select type="radio" name="exercise" value="ÿes">yes
-            <label>no</label>
-            <input type="radio" name="no exercice" value="no">no
+            <input type="radio" name="exercise" value="ÿes"> yes
+            <input type="radio" name="no exercice" value="no"> no
         </div>
         <div align="center">
             <label>television</label>
