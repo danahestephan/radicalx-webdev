@@ -11,11 +11,11 @@
         <div align="center">
             <h1>Inquitive survey form</h1>
             <label>enter your name</label>
-            <input type="text" name="ÿour name" size="30" maxlenght="40" value="tom">
+            <input type="text" name="ÿour name" size="30" maxlength="40" value="tom">
         </div>
         <div align="center">
             <label>enter your profession</label>
-            <input type="text" name="your profession" lenght="30">
+            <input type="text" name="your profession" length="30">
         </div>
         <div align="center">
             <label align="center">tell us about yourself:</label>
