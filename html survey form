@@ -27,7 +27,8 @@
             <input type="radio" name="no exercice" value="no"> no
         </div>
         <div align="center">
-        <label>how do you like to read about your favorite topics</label>
+        <label>how do you like to read about your favorite topics?</label>
+        <br>
             <label>television</label>
             <input type="checkbox" name="television">
             <label>magazines</label>
