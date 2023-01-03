@@ -11,7 +11,7 @@
         <div align="center">
             <h1>Inquitive survey form</h1>
             <label>enter your name</label>
-            <input type="text" name="ÿour name" size="30" maxlength="40" value="tom">
+            <input type="text" name="ÿour name" size="30" maxlength="40" value="enter your name">
         </div>
         <div align="center">
             <label>enter your profession</label>
