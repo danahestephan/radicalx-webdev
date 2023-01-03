@@ -9,7 +9,7 @@
 <body>
     <form action="https://www.radicalx.co">
         <div align="center">
-            <h1>Inquitive survey form</h1>
+            <h1>Inquisitive survey form</h1>
             <label>enter your name</label>
             <input type="text" name="ÿour name" size="30" maxlength="40" value="enter your name">
         </div>
